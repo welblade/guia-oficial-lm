@@ -1,2 +1,13 @@
-Tradução para o Português do Brasil dos Guias do Linux Mint http://www.linuxmint.com.br/ 
+![Logo Linux Mint BR](http://www.linuxmint.com.br/themes/lm/images/logo.png)
+# Guia Oficial do Usuário
+## Linux Mint
+Tradução para o Português Brasileiro do Guia Oficial do Usuário do Linux Mint, feita pela comunidade brasileira.
+### Downloads
+[![](http://iconizer.net/files/Fugue_Icons/orig/blue-document-pdf-text.png) Cinnamon Edition 18.0](https://github.com/welblade/guia-oficial-lm/releases/download/18.0/Guia.Oficial.do.Usuario.-.Linux.Mint.18.Cinnamon.pdf "Guia Oficial do Usuário - Cinnamon Edition")  
+[![](http://iconizer.net/files/Fugue_Icons/orig/blue-document-pdf-text.png) Xfce Edition 18.0](https://github.com/welblade/guia-oficial-lm/releases/download/18.0/Guia.Oficial.do.Usuario.-.Linux.Mint.18.Xfce.pdf "Guia Oficial do Usuário - Xfce Edition")  
+[![](http://iconizer.net/files/Fugue_Icons/orig/blue-document-pdf-text.png) MATE Edition 17.0](https://github.com/welblade/guia-oficial-lm/releases/download/17.0/Guia.Oficial.do.Usuario.-.Linux.Mint.17.Mate.pdf "Guia Oficial do Usuário - MATE Edition")  
+
+### Sites
+[Site Oficial do Linux Mint](https://linuxmint.com/ "Site Oficial do Linux Mint")  
+[Comunidade Brasileira do Linux Mint](http://linuxmint.com.br/ "Comunidade Brasileira do Linux Mint")  
 
